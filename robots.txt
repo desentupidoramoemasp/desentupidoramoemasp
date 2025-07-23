@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://desentupidoramoemasp.com.br/sitemap.xml
+
+# Crawl-delay (opcional - 1 segundo entre requisições)
+Crawl-delay: 1
+
+# Permitir acesso a todos os arquivos CSS e JS
+Allow: /css/
+Allow: /js/
+Allow: /img/
+
+# Permitir acesso a todas as páginas
+Allow: /index.html
+Allow: /servicos.html
+Allow: /sobre.html
+Allow: /contato.html
+
